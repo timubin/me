@@ -1,0 +1,46 @@
+.portfolio{
+  
+    background-color: #212529;
+   
+}
+
+.portfolio:hover{
+    transition: 1s;
+  /*   background-color: fuchsia; */
+}
+
+.portfolio img{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 20px;
+	/* border-radius: 10px; */
+}
+
+/* .portfolio:hover img, .threetwo:hover img, .threethree:hover img {
+	transition: all 2s;
+	transform: rotateY(360deg);
+}
+ */
+ .portfolio:hover img, .threetwo:hover img, .threethree:hover img {
+	-webkit-filter: sepia(0);
+	filter: sepia(0);
+  }
+
+/* .portfolio:hover {
+	background: #f5cb22;
+}
+.portfolio:hover .circlepic {
+	background: #5c5c5c;
+}
+.portfolio:hover .circleborder{
+		background: #333333;
+} */
+
+@media screen and (max-width: 634px) {
+	.portfolio-body{
+		flex-direction: column;
+	}
+	.portfolio{
+		width: 100%;
+	}
+}
