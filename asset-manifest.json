@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a69c2006.css",
-    "main.js": "/static/js/main.1c2f2f73.js",
+    "main.css": "/static/css/main.555d07cd.css",
+    "main.js": "/static/js/main.72d27c5c.js",
     "static/media/resume.pdf": "/static/media/resume.a3a7643fe9693b5e2d1b.pdf",
     "static/media/restaurant.png": "/static/media/restaurant.943decfea54aff2154cd.png",
     "static/media/beautycare.png": "/static/media/beautycare.f02db6dcd5dd85012dc9.png",
@@ -20,10 +20,10 @@
     "static/media/Finix.png": "/static/media/Finix.8716a4c3c438e44d1ce4.png",
     "static/media/eurosiainfo.png": "/static/media/eurosiainfo.0a5c45deef9f14ff66cf.png",
     "static/media/face111.jpg": "/static/media/face111.80a00e7367199ca167b3.jpg",
+    "static/media/boy.png": "/static/media/boy.80f560bac3d0266e086d.png",
     "static/media/news.png": "/static/media/news.1d8946a2b874b251b433.png",
     "static/media/astha.png": "/static/media/astha.81039ae6231be7201bdb.png",
     "static/media/Clairecreative.png": "/static/media/Clairecreative.a832831066ccab193657.png",
-    "static/media/boy.png": "/static/media/boy.05a6fe0eb7369020d0ab.png",
     "static/media/Anime.png": "/static/media/Anime.0a7eec7486b0cc7974dd.png",
     "static/media/arrita.png": "/static/media/arrita.19117c128475de2e3cb6.png",
     "static/media/elearning.png": "/static/media/elearning.55f7d014ddde65a89a36.png",
@@ -42,11 +42,11 @@
     "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
-    "main.a69c2006.css.map": "/static/css/main.a69c2006.css.map",
-    "main.1c2f2f73.js.map": "/static/js/main.1c2f2f73.js.map"
+    "main.555d07cd.css.map": "/static/css/main.555d07cd.css.map",
+    "main.72d27c5c.js.map": "/static/js/main.72d27c5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a69c2006.css",
-    "static/js/main.1c2f2f73.js"
+    "static/css/main.555d07cd.css",
+    "static/js/main.72d27c5c.js"
   ]
 }
