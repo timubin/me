@@ -1,33 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.555d07cd.css",
-    "main.js": "/static/js/main.72d27c5c.js",
+    "main.js": "/static/js/main.03148335.js",
     "static/media/resume.pdf": "/static/media/resume.a3a7643fe9693b5e2d1b.pdf",
-    "static/media/restaurant.png": "/static/media/restaurant.943decfea54aff2154cd.png",
-    "static/media/beautycare.png": "/static/media/beautycare.f02db6dcd5dd85012dc9.png",
     "static/media/Byfaux.png": "/static/media/Byfaux.8cbc6a8e0ccb5159b57d.png",
     "static/media/doyti.png": "/static/media/doyti.f39061a42dc046e90e65.png",
     "static/media/Cuda.png": "/static/media/Cuda.1d31c82813b5d4d8f53f.png",
     "static/media/doctor.png": "/static/media/doctor.87de61033f1d7057541e.png",
     "static/media/Euroisaholding.png": "/static/media/Euroisaholding.3b1c7d9cc52d0fe20b60.png",
-    "static/media/company.png": "/static/media/company.9f3074c949328d05da23.png",
     "static/media/therapylab.png": "/static/media/therapylab.8d10f98f4448cbe081bd.png",
-    "static/media/realestate.png": "/static/media/realestate.ed99895515e332fa06df.png",
     "static/media/Salem.png": "/static/media/Salem.6a2cd22dd1dc1f832ac5.png",
-    "static/media/travel.png": "/static/media/travel.90ec56f568406fac286e.png",
     "static/media/Nomadcapitalist.png": "/static/media/Nomadcapitalist.0b873b22eb357810708c.png",
-    "static/media/laravel.png": "/static/media/laravel.1192a1e12e7b1dab67fd.png",
     "static/media/Finix.png": "/static/media/Finix.8716a4c3c438e44d1ce4.png",
     "static/media/eurosiainfo.png": "/static/media/eurosiainfo.0a5c45deef9f14ff66cf.png",
-    "static/media/face111.jpg": "/static/media/face111.80a00e7367199ca167b3.jpg",
     "static/media/boy.png": "/static/media/boy.80f560bac3d0266e086d.png",
     "static/media/news.png": "/static/media/news.1d8946a2b874b251b433.png",
     "static/media/astha.png": "/static/media/astha.81039ae6231be7201bdb.png",
     "static/media/Clairecreative.png": "/static/media/Clairecreative.a832831066ccab193657.png",
+    "static/media/rokomarybazar.png": "/static/media/rokomarybazar.fc0282126eee550786d3.png",
     "static/media/Anime.png": "/static/media/Anime.0a7eec7486b0cc7974dd.png",
     "static/media/arrita.png": "/static/media/arrita.19117c128475de2e3cb6.png",
-    "static/media/elearning.png": "/static/media/elearning.55f7d014ddde65a89a36.png",
     "static/media/rosehan.png": "/static/media/rosehan.89c0e1126e206896e14e.png",
+    "static/media/Pristineshop.png": "/static/media/Pristineshop.072507416e9faaf54d2e.png",
     "static/media/Eurosiaapp.png": "/static/media/Eurosiaapp.4f0b246892ba9a1dad08.png",
     "static/media/Tecnologies.png": "/static/media/Tecnologies.b7457b63cd107631b4b7.png",
     "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
@@ -43,10 +37,10 @@
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
     "main.555d07cd.css.map": "/static/css/main.555d07cd.css.map",
-    "main.72d27c5c.js.map": "/static/js/main.72d27c5c.js.map"
+    "main.03148335.js.map": "/static/js/main.03148335.js.map"
   },
   "entrypoints": [
     "static/css/main.555d07cd.css",
-    "static/js/main.72d27c5c.js"
+    "static/js/main.03148335.js"
   ]
 }
