@@ -1,0 +1,24 @@
+name: Deploy to Public Repo
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout private repo
+        uses: actions/checkout@v3
+
+      - name: Push to public repo
+        run: |
+          git config --global user.email "mubin3242@gmail.com"
+          git config --global user.name "timubin"
+          git clone https://github.com/timubin/me.git temp_repo
+          rsync -av --exclude='.git/' ./ temp_repo/
+          cd temp_repo
+          git add .
+          git commit -m "Deploy from private repo"
+          git push https://timubin:${{ secrets.GH_TOKEN }}@github.com/timubin/me.git practice
